@@ -12,6 +12,7 @@
 		E98D8AA720649BC600D0F5B1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E98D8AA520649BC600D0F5B1 /* Main.storyboard */; };
 		E98D8AA920649BC700D0F5B1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E98D8AA820649BC700D0F5B1 /* Assets.xcassets */; };
 		E98D8AAC20649BC700D0F5B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E98D8AAA20649BC700D0F5B1 /* LaunchScreen.storyboard */; };
+		E98D8AB420649CFD00D0F5B1 /* RegisController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E98D8AB320649CFD00D0F5B1 /* RegisController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E98D8AA820649BC700D0F5B1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E98D8AAB20649BC700D0F5B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E98D8AAD20649BC900D0F5B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E98D8AB320649CFD00D0F5B1 /* RegisController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = RegisController.swift; path = ../RegisController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				E98D8AA120649BC600D0F5B1 /* AppDelegate.swift */,
 				E98D8AA320649BC600D0F5B1 /* ViewController.swift */,
+				E98D8AB320649CFD00D0F5B1 /* RegisController.swift */,
 				E98D8AA520649BC600D0F5B1 /* Main.storyboard */,
 				E98D8AA820649BC700D0F5B1 /* Assets.xcassets */,
 				E98D8AAA20649BC700D0F5B1 /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E98D8AB420649CFD00D0F5B1 /* RegisController.swift in Sources */,
 				E98D8AA420649BC600D0F5B1 /* ViewController.swift in Sources */,
 				E98D8AA220649BC600D0F5B1 /* AppDelegate.swift in Sources */,
 			);
